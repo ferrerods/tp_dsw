@@ -22,7 +22,7 @@ Link DER: https://lucid.app/lucidchart/59e56d27-ba7c-41e7-be60-ed91e226a3b4/edit
 ### CRUD simple	
 1. CRUD User
 2. CRUD Coach
-3. CRUD Package (12 clases, 20 clases, libre)
+3. CRUD Package (12 classes, 20 classes, free pass)
 4. CRUD Payment
 5. CRUD Class
 6. CRUD Appointment
