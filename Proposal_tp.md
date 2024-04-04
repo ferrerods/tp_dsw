@@ -14,6 +14,8 @@ Integrantes: 42597 - Ferrero, Dalila
 El sistema tiene como objetivo realizar la gestión integral de un gimnasio, tanto de las membresías como la asignación de turnos de cada actividad.
 
 ## Modelo
+![der_df](https://github.com/ferrerods/tp_dsw/assets/68881877/edf3a466-a61f-4a2f-b20c-c60a40dc8a23)
+
 Link DER: https://lucid.app/lucidchart/59e56d27-ba7c-41e7-be60-ed91e226a3b4/edit?viewport_loc=-44%2C21%2C2303%2C1038%2C0_0&invitationId=inv_3c12659c-ff49-4c8b-ba32-8d6f3e4efbfb
 
 ## Alcance Funcional
