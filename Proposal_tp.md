@@ -4,8 +4,8 @@
 Integrantes: 42597 - Ferrero, Dalila
 
 ## Repositorios
-frontend app: https://github.com/ferrerods/tp_dsw
-backend app: https://github.com/ferrerods/tp_dsw
+. frontend app: https://github.com/ferrerods/tp_dsw
+. backend app: https://github.com/ferrerods/tp_dsw
 
 ## Tema
 Sistema de gestión de gimnasio
