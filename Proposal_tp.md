@@ -8,7 +8,7 @@ Integrantes: 42597 - Ferrero, Dalila
 * backend app: https://github.com/ferrerods/tp_dsw
 
 ## Tema
-Sistema de gestión de gimnasio
+**Sistema de gestión de gimnasio**
 
 ## Descripción
 El sistema tiene como objetivo realizar la gestión integral de un gimnasio, tanto de las membresías como la asignación de turnos de cada actividad.
