@@ -1,0 +1,20 @@
+{
+  "name": "tp_dsw",
+  "version": "0.0.1",
+  "description": "TP DSW - Sistema gestion gimnasio",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "dsferrero",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
