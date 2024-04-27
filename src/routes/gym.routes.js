@@ -63,7 +63,7 @@ router.post('/', async (req, res) => {
     const { typeUser, name, typeDoc, numberDoc, address, dateBirth, physicalFitness, active } = req?.body
 
     if (!typeUser || !name || !typeDoc || !numberDoc || !address || !dateBirth || !physicalFitness || !active) {
-        return res.status(400).json(["Los campos obligatorios"])
+        return res.status(400).json(["Required Fields"])
     }
 
     const gym_user = new gymUser({
